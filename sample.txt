@@ -1,0 +1,61 @@
+If you have never contributed to an open source project before and you’re just getting started, consider exploring these resources.
+
+First contributions is a hands-on tutorial that walks you through contributions workflow on github. When you complete the tutorial, you’d have made a contribution to the same project.
+https://up-for-grabs.net is a site that aggregates (rolls up and makes easy to explore) projects that actively want help. They label those projects with things like “up-for-grabs”, “jump-in” or “help wanted.”
+CodeTriage helps you subscribe to your favorite open-source projects and get a new open issue from them in your inbox everyday.
+Read blog posts and guides on how to contribute to an open source project, then pick one!
+If you’re just getting started with tech and are considering being a social developer, we’ve made a documentary training movie for you! Get Involved in Tech walks you through setting up your GitHub account, exploring StackOverflow, setting up a blog and starting to tweet!
+Wondering what someone else’s first contribution was? You can easily find out any GitHub username’s “First Pull Request” here! (I think you’ll find that most people’s first PRs were relatively small like Kent’s).
+We think that open source projects should value civility, kindness, and patience with new developers. We encourage you to explore projects that have a published Code of Conduct.
+
+First timer contributions are normally very small and easy (One recent first-timers-only issue was literally three lines of simple changes! And the changes were described in great detail and tested by the project maintainer). But this makes it easier for the contributor to get the hang of the contribution process rather than the contribution itself. Remember, this isn’t as much about getting your project features implemented quickly as it is about helping first timers.
+
+Why is YAL (yet another label) like first-timers-only important? Because it makes a statement that first timers are welcome, that they are valued, and that they can start on your project! Often the hard part of getting into open source for the first time isn’t the implementation of a feature, but figuring out how to actually contribute code such that the pull request is accepted! But, oh the feeling of accomplishment when your first PR is merged!
+
+Go label an issue or two with first-timers-only and advertise that those issues exist! Walk a newbie a week (or a month) through the process! Document the process, blog and tweet about it and encourage those first timers to do the same! And add this badge to your repo’s README:
+
+
+Flattening arrays may not be an everyday need but, it is still an important need enough to be part of most utility libraries in JavaScript.
+
+If you have looked at this very simple problem before you have probably noticed that most of the time we only see one kind of implementation for it, the recursive way.
+
+Here, I would like to present another way of doing it, iteratively. I am not saying that the iterative way is better than the recursive way, although it has its advantages, but just that sometimes I think it is good to try solving problem with other approaches.
+
+The #sorting-algorithms series is a collection of posts about reimplemented sorting algorithms in JavaScript.
+
+If you are not familiar with sorting algorithms, a quick introduction and the full list of reimplemented sorting algorithms can be found in the introduction post of the series on sorting algorithms in JavaScript.
+
+If you feel comfortable with the concept of each sorting algorithm and only want to see the code, have a look at the summary post of the series. It removes all explanations and contains only the JavaScript code for all sorting algorithms discussed in the series.
+
+Several incorrect proofs of this theorem have been published, including one that
+stood for 10 years in the late 19th century before its mistake was found. A laborious
+proof was finally found in 1976 by mathematicians Appel and Haken, who used a
+complex computer program to categorize the four-colorable maps. The program
+left a few thousand maps uncategorized, which were checked by hand by Haken
+and his assistants—among them his 15-year-old daughter.
+There was reason to doubt whether this was a legitimate proof—the proof was
+too big to be checked without a computer. No one could guarantee that the computer
+calculated correctly, nor was anyone enthusiastic about exerting the effort
+to recheck the four-colorings of thousands of maps that were done by hand. Two
+decades later a mostly intelligible proof of the Four Color Theorem was found,
+though a computer is still needed to check four-colorability of several hundred special
+maps.3
+
+In a book he was reading around 1630, Fermat claimed to have a proof for this
+proposition, but not enough space in the margin to write it down. Over the years,
+the Theorem was proved to hold for all n up to 4,000,000, but we’ve seen that this
+shouldn’t necessarily inspire confidence that it holds for all n. There is, after all,
+a clear resemblance between Fermat’s Last Theorem and Euler’s false Conjecture.
+Finally, in 1994, British mathematician Andrew Wiles gave a proof, after seven
+years of working in secrecy and isolation in his attic. His proof did not fit in any
+margin.4
+Finally, let’s mention another simply stated proposition whose truth remains unknown
+
+When the statements above the line, called the antecedents, are proved, then we
+can consider the statement below the line, called the conclusion or consequent, to
+also be proved.
+A key requirement of an inference rule is that it must be sound: an assignment
+of truth values to the letters P, Q, . . . , that makes all the antecedents true must
+also make the consequent true. So if we start off with true axioms and apply sound
+inference rules, everything we prove will also be true.
+There are many other natural, sound inference rules, for example:
